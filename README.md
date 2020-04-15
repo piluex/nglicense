@@ -12,4 +12,10 @@ I say that in addition to that, if you don't use or buy that they get a lot of v
 
 No one should have this kind of power. Specially not Microsoft. I for once prefeer to use free tools and avoid sharing my code with Microsoft, to give some balance, to stop this before it becomes bad. You are free to choose... for now.
 
+# the license...
 
+I'm no lawyer, but I think it's good enough to add a "ng" to the license you choose and then write something like this:
+
+"NG meanse no github. This code should not be uploaded to github, if you find this code on github please inform the author."
+
+If a lawyer or legal expert reads this, please make it better. 
