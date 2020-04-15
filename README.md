@@ -3,7 +3,7 @@ ng license is an "ad-hoc" license to any license to make your code illegal to po
 
 This license was invented because github is making a lot of moves to make us upload our code (or others code) to github. Today (2020/04/14) github announced they will even allow you to upload in private repositories for free!!! 
 
-Isn't that strange? There is clearly a value for github in storing your code.
+Isn't that strange? There is clearly a value for github in storing our code.
 
 Well, "they say" the will sell you tools as a service (which is already bad... get used to a tool that you cannot own...).
 
